@@ -26,3 +26,4 @@ nRF5_SDK_17.1.0_ddde560/examples/dfu/secure_bootloader/pca10100e_s112_ble/*
 nRF5_SDK_17.1.0_ddde560/examples/dfu/secure_bootloader/pca10100e_s112_ble_debug/*
 nRF5_SDK_17.1.0_ddde560/examples/dfu/secure_bootloader/pca10100e_usb/*
 nRF5_SDK_17.1.0_ddde560/examples/dfu/secure_bootloader/pca10100e_usb_debug/*
+nRF5_SDK_17.1.0_ddde560/examples/dfu/secure_bootloader/settings/*
